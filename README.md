@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Software Engineer
 ---------------------------
 
-I am a fullstack engineer passionate about solving problems and finds fun in new challenges. I am experienced with mobile and web application development. I am open to collaborate on open source projects.
+I am a fullstack engineer passionate about solving problems and finds fun in new challenges. I am experienced with mobile and web application development. I am open to collaborate on interesting projects.
 
 * 🌍  I'm based in Lagos, Nigeria
 * 🤝  I'm open to collaborating on Interesting Projects
