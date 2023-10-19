@@ -53,6 +53,7 @@ src="https://img.shields.io/github/followers/fantastic-genius?logo=github&style=
 
 
 <b>Hacktoberfest</b>
+
 [![An image of @fantasticgenius's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/fantasticgenius)](https://holopin.io/@fantasticgenius)
 
 
