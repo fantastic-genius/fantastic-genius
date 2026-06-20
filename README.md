@@ -51,3 +51,8 @@ I build LLM-powered, AI-native applications and RAG systems, and I wire AI into 
 ### GitHub Stats
 
 [![fantastic-genius's GitHub stats](https://github-readme-stats.vercel.app/api?username=fantastic-genius&show_icons=true&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true)](http://www.github.com/fantastic-genius)
+
+
+### Hacktoberfest
+
+[![An image of @fantasticgenius's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/fantasticgenius)](https://holopin.io/@fantasticgenius)
