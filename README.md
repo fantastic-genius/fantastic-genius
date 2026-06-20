@@ -21,7 +21,7 @@ I build LLM-powered, AI-native applications and RAG systems, and I wire AI into 
 - **Languages:** JavaScript, TypeScript, Python
 - **Frontend:** React, Next.js, Tailwind CSS, React Native
 - **Backend:** Node.js, Express, Python, FastAPI
-- **AI / ML:** LLM Inference, LLM application development, RAG, prompt engineering, AI feature integration, LLM Training/Fine Tuning
+- **AI / ML:** LLM Inference, LLM application development, RAG, prompt engineering, AI feature integration, LLM Training/Fine Tuning, AI Agents
 - **Data:** PostgreSQL, MySQL, MongoDB, Pinecone
 - **Others:** vLLM, Unsloth, MicroServices
 
