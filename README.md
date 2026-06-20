@@ -54,8 +54,6 @@ I build LLM-powered, AI-native applications and RAG systems, and I wire AI into 
 
 <a href="http://www.github.com/fantastic-genius"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fantastic-genius&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/fantastic-genius"><img src="https://activity-graph.herokuapp.com/graph?username=fantastic-genius&bg_color=1c1917&color=ffffff&line=22c55e&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 
 ### Hacktoberfest
 
